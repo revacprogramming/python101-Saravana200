@@ -1,6 +1,6 @@
 
 def add(a, b):
-    pass  # ...
+    return (a,b)
 
 
 def output(a, b, sum):
